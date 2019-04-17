@@ -1,4 +1,4 @@
-# KintoHub Java Examples
+# KintoHub Java Examples!
 
 This repository has a basic example of creating an HTTP server with java that is compatible on KintoHub.
 
