@@ -2,7 +2,7 @@
 
 This repository has a basic example of creating an HTTP server with java that is compatible on KintoHub.
 
-The requirements are as follows:
+The requirements are as follows::
 
 * Need to use the exact docker file provided in this repository. (Java8 Alpine3)
 * Must listen to port 80 on hostname 0.0.0.0
