@@ -13,3 +13,4 @@ The example written uses Jetty to serve the HTTP endpoint. You can run the examp
 
 docker build -t kinto-javahttp-example .
 docker run kinto-javahttp-example
+sssd
