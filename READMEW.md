@@ -8,7 +8,7 @@ The requirements are as follows::
 * Must listen to port 80 on hostname 0.0.0.0
 * Write an apidoc comment for each of your endpoints
 * Ensure all your required files are within /app/out
-sagar
+sagar ppp
 The example written uses Jetty to serve the HTTP endpoint. You can run the example with:
 
 docker build -t kinto-javahttp-example .
